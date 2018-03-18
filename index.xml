@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>紫猫的家</title>
+    <link>http://azmove.github.io/</link>
+    <description>Recent content on 紫猫的家</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://azmove.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mac下安装ipfs</title>
+      <link>http://azmove.github.io/basics/first-content/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://azmove.github.io/basics/first-content/</guid>
+      <description> 1.mac下安装 健康健康
+2.斤斤计较 </description>
+    </item>
+    
+  </channel>
+</rss>
